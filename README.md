@@ -1,4 +1,5 @@
 # Deduplication_innovaccer
+(Please open this readme to view the results properly in columnar fashion)
 Result obtained is as follows -
 1st column represents index of unique record while 2nd column is deduplicated record index corresponding to it
 
